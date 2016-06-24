@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="flight_sort_options">
+        <item>Total Cost</item>
+        <item># of Stops</item>
+        <item>Airline</item>
+    </string-array>
+    <string-array name="flight_sort_options_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="entries">
+        <item>Snow White</item>
+        <item>Dopey</item>
+        <item>Bashful</item>
+        <item>Doc</item>
+        <item>Sleepy</item>
+        <item>Sneezy</item>
+        <item>Grumpy</item>
+        <item>Happy</item>
+    </string-array>
+    <!-- Used in app/menu examples -->
+    <string-array name="values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="list_titles">
+        <item>Buttons</item>
+        <item>Checkboxes</item>
+        <item>DateTime Picker</item>
+        <item>Gallery</item>
+        <item>GridView</item>
+        <item>GridView Custom</item>
+        <item>ImageView</item>
+        <item>ListView 1</item>
+        <item>ListView 2</item>
+        <item>ListView 3</item>
+        <item>ListView 4</item>
+        <item>Radio Button</item>
+        <item>Spinner</item>
+        <item>TextView</item>
+    </string-array>
+    <string-array name="list_activities">
+        <item>button.ButtonActivity</item>
+        <item>button.CheckBoxActivity</item>
+        <item>DateTimePickerActivity</item>
+        <item>adapterView.GalleryActivity</item>
+        <item>adapterView.GridViewActivity</item>
+        <item>adapterView.GridViewCustomAdapter</item>
+        <item>ImageViewActivity</item>
+        <item>adapterView.ListViewActivity</item>
+        <item>adapterView.ListViewActivity2</item>
+        <item>adapterView.ListViewActivity3</item>
+        <item>adapterView.ListViewActivity4</item>
+        <item>button.RadioGroupActivity</item>
+        <item>adapterView.SpinnerActivity</item>
+        <item>text.TextViewActivity</item>
+    </string-array>
+
+</resources>
